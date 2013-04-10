@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="maven-unit-test-sandboxing:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="maven-unit-test-sandboxing.war">
-      <element id="artifact" artifact-name="maven-unit-test-sandboxing:war exploded" />
-    </root>
-  </artifact>
-</component>
